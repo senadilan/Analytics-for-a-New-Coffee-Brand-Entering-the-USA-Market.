@@ -1,4 +1,4 @@
-# ☕ U.S. Coffee Market Entry Analysis
+# U.S. Coffee Market Entry Analysis
 
 ## Overview
 This project builds a data-driven model to identify the best U.S. cities for opening a premium coffee shop.
